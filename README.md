@@ -4,7 +4,7 @@ RNA-seqのリードをトランスクリプトーム配列にマッピングし�
 
 # Download
 ```bash:
-git clone https://github.com/KodaiGibu/rnamap.git
+git clone https://github.com/KodaiGibu/salmap.git
 ```
 
 # Environment Construction
@@ -25,11 +25,11 @@ python salmap.py -d /path/to/rawdata_dir -o /path/to/out_put_dir/ -r /path/to/rn
 ```
 
 # Options
-`-d`　Path of the directory containing rawdata 
-`-r`　Fasta file of the reference transcriptome sequence 
-`-1`　Adapter sequence information to be removed #1 
-`-2`　Adapter sequence information to be removed #2 
-`-o`　Path of the directory to output the output file
+`-d`　Path of the directory containing rawdata  
+`-r`　Fasta file of the reference transcriptome sequence  
+`-1`　Adapter sequence information to be removed #1   
+`-2`　Adapter sequence information to be removed #2   
+`-o`　Path of the directory to output the output file  
 
 
 
