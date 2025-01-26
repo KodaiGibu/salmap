@@ -25,8 +25,13 @@ python salmap.py -d /path/to/rawdata_dir -o /path/to/out_put_dir/ -r /path/to/rn
 ```
 
 # Options
-`-d`　rawdataのあるディレクトリ  
-`-r`　リファレンスとなるトランスクリプトーム配列のfastaファイル   
-`-1`　除去するアダプター配列情報 #1  
-`-2`　除去するアダプター配列情報 #2  
-`-o`　アウトプットを出力するディレクトリ
+`-d`　Path of the directory containing rawdata 
+`-r`　Fasta file of the reference transcriptome sequence 
+`-1`　Adapter sequence information to be removed #1 
+`-2`　Adapter sequence information to be removed #2 
+`-o`　Path of the directory to output the output file
+
+
+
+
+
