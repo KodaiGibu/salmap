@@ -1,5 +1,5 @@
 # salmap
-This script is for mapping and counting RNA-seq reads to transcriptome data.
+This script is for mapping and counting RNA-seq reads to transcriptome data.  
 RNA-seqのリードをトランスクリプトーム配列にマッピングし、リード数をカウントするためのスクリプトです。
 
 # Download
